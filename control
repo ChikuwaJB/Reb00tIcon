@@ -1,0 +1,9 @@
+Package: com.chikuwa
+Name: Reb00t Icon
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Utilities
